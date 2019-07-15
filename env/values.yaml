@@ -20,3 +20,45 @@ jenkins:
   Servers:
     Global: {}
 prow: {}
+ubidy-employerengagementapi:
+  environment: staging
+ubidy-applicationlookupapi:
+  environment: staging
+ubidy-opportunitiesapi:
+  environment: staging
+ubidy-agencyengagementapi:
+  environment: staging
+ubidy-agencyapi:
+  environment: staging
+ubidy-employerapi:
+  environment: staging
+ubidy-applicationapi:
+  environment: staging
+ubidy-agencyemailpreferenceapi:
+  environment: staging
+ubidy-employeremailpreferenceapi:
+  environment: staging
+ubidy-agencynotificationapi:
+  environment: staging
+ubidy-employernotificationapi:
+  environment: staging
+ubidy-agencyengagementboardsapi:
+  environment: staging
+ubidy-employerengagementboardsapi:
+  environment: staging
+ubidy-candidatecenterapi:
+  environment: staging
+ubidy-agencycandidatecenterapi:
+  environment: staging
+ubidy-employercandidatecenterapi:
+  environment: staging
+ubidy-documentapi:
+  environment: staging
+ubidy-commentssocketapi:
+  environment: staging
+ubidy-messagequeueapi:
+  environment: staging
+ubidy-messengerapi:
+  environment: staging
+ubidy-backofficeapi:
+  environment: staging
