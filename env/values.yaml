@@ -21,44 +21,44 @@ jenkins:
     Global: {}
 prow: {}
 ubidy-employerengagementapi:
-  environment: staging
+  environment: "staging"
 ubidy-applicationlookupapi:
-  environment: staging
+  environment: "staging"
 ubidy-opportunitiesapi:
-  environment: staging
+  environment: "staging"
 ubidy-agencyengagementapi:
-  environment: staging
+  environment: "staging"
 ubidy-agencyapi:
-  environment: staging
+  environment: "staging"
 ubidy-employerapi:
-  environment: staging
+  environment: "staging"
 ubidy-applicationapi:
-  environment: staging
+  environment: "staging"
 ubidy-agencyemailpreferenceapi:
-  environment: staging
+  environment: "staging"
 ubidy-employeremailpreferenceapi:
-  environment: staging
+  environment: "staging"
 ubidy-agencynotificationapi:
-  environment: staging
+  environment: "staging"
 ubidy-employernotificationapi:
-  environment: staging
+  environment: "staging"
 ubidy-agencyengagementboardsapi:
-  environment: staging
+  environment: "staging"
 ubidy-employerengagementboardsapi:
-  environment: staging
+  environment: "staging"
 ubidy-candidatecenterapi:
-  environment: staging
+  environment: "staging"
 ubidy-agencycandidatecenterapi:
-  environment: staging
+  environment: "staging"
 ubidy-employercandidatecenterapi:
-  environment: staging
+  environment: "staging"
 ubidy-documentapi:
-  environment: staging
+  environment: "staging"
 ubidy-commentssocketapi:
-  environment: staging
+  environment: "staging"
 ubidy-messagequeueapi:
-  environment: staging
+  environment: "staging"
 ubidy-messengerapi:
-  environment: staging
+  environment: "staging"
 ubidy-backofficeapi:
-  environment: staging
+  environment: "staging"
