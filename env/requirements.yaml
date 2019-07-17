@@ -25,6 +25,3 @@ dependencies:
 - name: ubidy-agencyengagementboardsapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.16
-- name: ubidy-agencynotificationapi
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.26
