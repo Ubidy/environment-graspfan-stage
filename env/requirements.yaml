@@ -42,4 +42,4 @@ dependencies:
   version: 0.1.31
 - name: ubidy-employerapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 2.1.54
+  version: 2.1.55
