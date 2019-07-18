@@ -48,4 +48,4 @@ dependencies:
   version: 0.1.75
 - name: ubidy-employerengagementapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.110
+  version: 0.0.111
