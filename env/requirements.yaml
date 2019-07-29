@@ -12,55 +12,55 @@ dependencies:
   version: 0.0.2
 - name: ubidy-agencyapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.215
+  version: 0.1.225
 - name: ubidy-agencycandidatecenterapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.40
+  version: 0.0.61
 - name: ubidy-agencyemailpreferenceapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.104
+  version: 0.1.113
 - name: ubidy-agencyengagementapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.56
+  version: 0.0.90
 - name: ubidy-agencyengagementboardsapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.21
+  version: 0.0.32
 - name: ubidy-agencynotificationapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.29
+  version: 0.1.33
 - name: ubidy-applicationapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.42
+  version: 0.1.47
 - name: ubidy-applicationlookupapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.145
+  version: 0.0.151
 - name: ubidy-commentssocketapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.28
+  version: 0.1.35
 - name: ubidy-documentapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.31
+  version: 0.1.33
 - name: ubidy-employerapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 2.1.55
+  version: 2.1.67
 - name: ubidy-employeremailpreferenceapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.82
+  version: 0.1.86
 - name: ubidy-employerengagementapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.114
+  version: 0.0.157
 - name: ubidy-employerengagementboardsapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.26
+  version: 0.0.33
 - name: ubidy-employernotificationapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.44
+  version: 0.1.46
 - name: ubidy-messagequeueapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.46
+  version: 0.1.50
 - name: ubidy-messengerapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.24
+  version: 0.1.28
 - name: ubidy-opportunitiesapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.66
+  version: 0.0.86
